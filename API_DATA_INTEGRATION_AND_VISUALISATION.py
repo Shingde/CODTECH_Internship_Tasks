@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime
 
-API_KEY = "c919d734f77c803ee6657d5b50f56a69"
+API_KEY = "your_openweathermap_token_here"
 CITY = "Pune"
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
